@@ -4,7 +4,7 @@ let chalk = require('chalk')
 owner = [
   ['628222179xxxx', 'kosong', true],
   ['6289522530153', 'Wå.mê/Bayu🐤', true],
-  ['6218283186765', 'Wå.mê/Äkmål🐤', true],
+  ['6289522530153', 'Wå.mê/Äkmål🐤', true],
 ]// [number, dia creator/owner?, dia developer?] Put your number here
 mods = [] // Want some help?
 prems = [] // Premium user has unlimited limit
